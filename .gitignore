@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+azureSettings.xml
+compiler.xml
+jarRepositories.xml
+misc.xml
+workspace.xml
+pom.xml
+cucumber.iml
